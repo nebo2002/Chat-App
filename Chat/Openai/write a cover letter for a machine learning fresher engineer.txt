@@ -1,0 +1,20 @@
+OpenAI response for Prompt: digital write a cover letter for a machine learning fresher engineer 
+ *************************
+
+
+
+Dear [Recruiter Name],
+
+I am writing to apply for the Machine Learning Fresher Engineer position at [Company Name], as advertised in [Source of Ad].
+
+I recently graduated from [University Name] with a Bachelor's degree in Computer Science. During my degree, I developed an impressive set of skills in machine learning, artificial intelligence, and data analytics. I have also gained valuable experience in developing predictive models and building interactive visualizations.
+
+I am passionate about machine learning and its application in the real world. I am well-versed in the latest tools and technologies, including Python, R, and TensorFlow. I am also familiar with various cloud platforms and I have successfully deployed a number of machine learning projects on AWS and Azure.
+
+My experience combined with enthusiasm and curiosity make me an ideal candidate for this role. I am confident that my knowledge and skills can be an asset to your team.
+
+I have enclosed my resume for your review. I look forward to discussing my qualifications and experience in more detail.
+
+Sincerely,
+
+[Your Name]
